@@ -4,7 +4,7 @@ Hi 👋 My name is Fabian
 Data Engineer - MSc in Petroleum Engineering
 --------------------------------------------
 
-I hold a master's degree in Petroleum Engineering and discovered Python a few years ago, when a colleague introduced me to the language. Later, I worked as a data analyst, but my interest in data engineering grew and I decided to switch career paths.
+I hold a master's degree in Petroleum Engineering and discovered Python a few years ago when a colleague introduced me to the language. Later, I worked as a data analyst, but my interest in data engineering grew and I decided to switch career paths.
 
 * 🌍  I'm based in Perth, Australia
 
