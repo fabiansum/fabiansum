@@ -4,7 +4,7 @@ Hi 👋 My name is Fabian
 Data Engineer - MSc in Petroleum Engineering
 --------------------------------------------
 
-I hold a master's degree in Petroleum Engineering and have interest in Geoscience, Machine Learning, Data Engineer.
+I hold a master's degree in Petroleum Engineering and have interest in Geoscience, Machine Learning, Data Engineering.
 * 🌍  I'm based in Perth, Australia
 
 ### Skills
