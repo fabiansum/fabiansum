@@ -17,11 +17,11 @@ I hold a master's degree in Petroleum Engineering and have interest in Geoscienc
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/azure-offical.svg" width="36" height="36" alt="Microsoft Azure" /></a>
 </p>
 
-
+<!--
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/fabiansum" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+-->
 <!--
 **fabiansum/fabiansum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
