@@ -6,7 +6,6 @@ Data Scientist / Data Engineer - MSc in Petroleum Engineering
 
 I hold a master's degree in Petroleum Engineering and have a strong interest in Geoscience, Data Science, Machine Learning, and Data Engineering. Currently, I'm based in Perth, Australia, and I'm passionate about leveraging data to solve complex problems.
 
-* 🌍  I'm based in Perth, Australia
 
 ### Skills
 
