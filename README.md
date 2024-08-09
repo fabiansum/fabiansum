@@ -48,11 +48,11 @@ I hold a master's degree in Petroleum Engineering and have a strong interest in 
 
 - **Secured Azure Data Lakehouse for Bike Share Data Analytics with Medallion Architecture:** Developed a data lakehouse using Azure Databricks and medallion architecture.
   - Technologies used: Python, PostgreSQL, Spark, Azure
-  - [Repository Link](#)
+ 
 
 - **Well Production Performance Prediction using Deep Learning Techniques:** Predicted oil and gas well production performance from historical limited surface data using deep learning models.
   - Technologies used: Python, Git, Machine Learning, Deep Learning, Tensorflow
-  - [Repository Link](#)
+
 <!--
 ### Socials
 
