@@ -19,19 +19,25 @@ I hold a master's degree in Petroleum Engineering and have a strong interest in 
 #### Data Engineering Tools:
 <p align="left">
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark" /></a>
-<a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="36" height="36" alt="Databricks" /></a>
-<a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Azure_Synapse_Analytics_Logo.png" width="36" height="36" alt="Synapse Analytics" /></a>
-<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Azure_Data_Factory_Logo.png" width="36" height="36" alt="Data Factory" /></a>
+<a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="72" height="36" alt="Databricks" /></a>
+<a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:750/1*qeUPN2Z02LP88Lr5TF3Isg.jpeg" width="72" height="36" alt="Synapse Analytics" /></a>
 </p>
+
+<!--
+<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Azure_Data_Factory_Logo.png" width="36" height="36" alt="Data Factory" /></a>
+-->
 
 #### Version Control:
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"><img src="https://subversion.apache.org/images/svn-name-banner.svg" width="108" height="36" alt="Apache Subversion" /></a>
+
 </p>
 
 #### Databases:
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="72" height="36" alt="SQLite" /></a>
 </p>
 
 #### Cloud Platforms:
