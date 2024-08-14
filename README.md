@@ -50,6 +50,7 @@ I hold a master's degree in Petroleum Engineering and have a strong interest in 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
+<!--
 ### 📚 Projects
 
 - **Secured Azure Data Lakehouse for Bike Share Data Analytics with Medallion Architecture:** Developed a data lakehouse using Azure Databricks and medallion architecture.
@@ -58,6 +59,7 @@ I hold a master's degree in Petroleum Engineering and have a strong interest in 
 
 - **Well Production Performance Prediction using Deep Learning Techniques:** Predicted oil and gas well production performance from historical limited surface data using deep learning models.
   - Technologies used: Python, Git, Machine Learning, Deep Learning, Tensorflow
+-->
 
 <!--
 ### Socials
