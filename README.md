@@ -4,7 +4,11 @@ Hi 👋 My name is Fabian
 Data Scientist / Data Engineer - MSc in Petroleum Engineering
 --------------------------------------------
 
-I hold a master's degree in Petroleum Engineering and have a strong interest in Geoscience, Data Science & Engineering, Machine Learning, and Software Development. Currently, I'm based in Perth, Australia, and I'm passionate about leveraging data to solve complex problems.
+Hello! I'm a data professional with a background in petroleum engineering, currently based in Perth, Australia. I have a strong foundation in Geoscience, Data Science & Engineering, and Machine Learning, and I’m passionate about solving complex problems with data-driven insights.
+
+🎓 Education: MSc in Petroleum Engineering
+🔍 Interests: Geoscience, Machine Learning, Data Engineering, Software Development
+🌍 Location: Perth, Australia
 
 
 
