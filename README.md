@@ -4,7 +4,8 @@ Hi 👋 My name is Fabian
 Data Scientist / Data Engineer - MSc in Petroleum Engineering
 --------------------------------------------
 
-I hold a master's degree in Petroleum Engineering and have a strong interest in Geoscience, Data Science, Machine Learning, and Data Engineering. Currently, I'm based in Perth, Australia, and I'm passionate about leveraging data to solve complex problems.
+I hold a master's degree in Petroleum Engineering and have a strong interest in Geoscience, Data Science & Engineering, Machine Learning, and Software Development. Currently, I'm based in Perth, Australia, and I'm passionate about leveraging data to solve complex problems.
+
 
 
 ### Skills
@@ -49,6 +50,10 @@ I hold a master's degree in Petroleum Engineering and have a strong interest in 
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
+
+### On going projects (Oct 2024)
+- Petroleum engineering calculators
+
 
 <!--
 ### 📚 Projects
