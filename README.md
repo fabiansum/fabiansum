@@ -55,8 +55,8 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-### On going projects (Oct 2024)
-- Petroleum engineering calculators
+### On going projects (Jan 2025)
+- Formation Evaluation App
 
 
 <!--
