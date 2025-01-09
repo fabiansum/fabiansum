@@ -1,7 +1,7 @@
 Hi 👋 My name is Fabian
 =======================
 
-Data Scientist / Python Developer - MSc in Petroleum Engineering
+Data Professional / Python Developer - MSc in Petroleum Engineering
 --------------------------------------------
 
 Hello! I'm a data professional with a background in petroleum engineering, currently based in Perth, Australia. I have a strong foundation in Geoscience, Data Science & Engineering, and Machine Learning, and I’m passionate about solving complex problems with data-driven insights.
