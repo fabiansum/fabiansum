@@ -22,22 +22,7 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="36" height="36" alt="Bash" /></a>
 </p>
 
-<!--
-<a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Azure_Data_Factory_Logo.png" width="36" height="36" alt="Data Factory" /></a>
--->
 
-#### Version Control:
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"><img src="https://subversion.apache.org/images/svn-name-banner.svg" width="108" height="36" alt="Apache Subversion" /></a>
-
-</p>
-
-#### Containerisation:
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
--->
 ### On going projects
 - Formation Evaluation App
 
