@@ -8,11 +8,11 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 
 🎓 Education: MSc in Petroleum Engineering
 
-🔍 Interests: Geoscience, AI/ML, Data Science
+🔍 Interests: Geoscience, Scientific Programming, AI/ML
 🌍 Location: Perth, Australia
 
 
-
+<!--
 ### Skills
 
 
@@ -37,7 +37,7 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
-
+-->
 ### On going projects
 - Formation Evaluation App
 
