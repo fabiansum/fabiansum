@@ -9,6 +9,7 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 🎓 Education: MSc in Petroleum Engineering
 
 🔍 Interests: Geoscience, Scientific Programming, AI/ML
+
 🌍 Location: Perth, Australia
 
 
