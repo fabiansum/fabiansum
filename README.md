@@ -8,8 +8,7 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 
 🎓 Education: MSc in Petroleum Engineering
 
-🔍 Interests: Geoscience, AI/ML, Data Science, Software Development, Data Engineering
-
+🔍 Interests: Geoscience, AI/ML, Data Science
 🌍 Location: Perth, Australia
 
 
@@ -21,13 +20,6 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="36" height="36" alt="Bash" /></a>
-</p>
-
-#### Data Engineering Tools:
-<p align="left">
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark" /></a>
-<a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="72" height="36" alt="Databricks" /></a>
-<a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:750/1*qeUPN2Z02LP88Lr5TF3Isg.jpeg" width="72" height="36" alt="Synapse Analytics" /></a>
 </p>
 
 <!--
