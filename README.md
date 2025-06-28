@@ -33,23 +33,12 @@ Hello! I'm a data professional with a background in petroleum engineering, curre
 
 </p>
 
-#### Databases:
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="72" height="36" alt="SQLite" /></a>
-</p>
-
-#### Cloud Platforms:
-<p align="left">
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/azure-offical.svg" width="36" height="36" alt="Microsoft Azure" /></a>
-</p>
-
 #### Containerisation:
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-### On going projects (Jan 2025)
+### On going projects
 - Formation Evaluation App
 
 
